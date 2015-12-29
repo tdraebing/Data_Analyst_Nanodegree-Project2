@@ -1,0 +1,5 @@
+Is the distribution of the number of entries statistically different between rainy and non rainy days?
+- Yes
+
+Describe your results and the methods used
+- The MWU-Test is an unparametric test comparing the means of samples. It results in a p-value below 0.05, which is considered significant.

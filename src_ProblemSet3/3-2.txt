@@ -1,0 +1,6 @@
+Does entries data from the previous exercise seem normally distributed?
+- No
+
+Can we run Welch's T test on entries data? Why or why not?
+- No
+- Welch's T test assumes normally distributed data
